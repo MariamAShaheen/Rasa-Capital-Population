@@ -97,3 +97,11 @@ nlu:
     - could you tell me the capital of [india](country_name)?
     - show me the capital of [Canada](country_name)
     - search for the capital of [Germany](country_name)
+
+- intent: chack_population
+  examples: |
+    - tell me the population of the [Egypt](country_name)
+    - what is the population of the [USA](country_name) ?
+    - could you tell me the population of [india](country_name)?
+    - show me the population of [Canada](country_name)
+    - search for the population of [Germany](country_name)
